@@ -80,7 +80,7 @@ _Detections after NMS_
 ![](data/images/test-im-4-nms.png)
 
 ## PixLab Restful APIs
-If you are looking for state-of-the-art Restfull APIs for your Computer Vision & Media processing tasks, you may found [PixLab](https://pixlab.io) very usefull with the following capablity:
+If you are looking for **state-of-the-art Restfull APIs for your Computer Vision & Media processing tasks**, you may found [PixLab](https://pixlab.io) very usefull with the following capablity:
 
 1. Face detection, recognition, emotion, generation, lookup, landmarks, etc.
 2. Content Moderation & Extraction: nsfw, sfw, urlcapture, header, ocr, tagimg.
@@ -101,11 +101,9 @@ and finally some useful links to start playing with:
 3. List of Images Analysis & Processing Commands: https://pixlab.io/#/cmdls
 4. The PixLab Sample Set: https://pixlab.io/#/examples
 
-
-
 ## Useful tutorials
 
-1. [Mimic Snapchat Filters Programmatically]()
+1. [Mimic Snapchat Filters Programmatically](https://blog.pixlab.io/2017/07/mimic-snapchat-filters)
 2. [Image Pyramids with Python and OpenCV](http://www.pyimagesearch.com/2015/03/16/image-pyramids-with-python-and-opencv/)
 3. [Sliding Windows for Object Detection with Python and OpenCV](http://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)
 4. [Non-Maximum Suppression for Object Detection in Python](http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
