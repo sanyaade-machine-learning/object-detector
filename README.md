@@ -80,7 +80,7 @@ _Detections after NMS_
 ![](data/images/test-im-4-nms.png)
 
 ## PixLab Restful APIs
-If you are looking for **state-of-the-art Restfull APIs for your Computer Vision & Media processing tasks**, you may found [PixLab](https://pixlab.io) very usefull with the following capablity:
+If you are looking for **state-of-the-art Restful APIs for your Computer Vision & Media processing tasks**, you may found [PixLab](https://pixlab.io) very useful with the following capablity:
 
 1. Face detection, recognition, emotion, generation, lookup, landmarks, etc.
 2. Content Moderation & Extraction: nsfw, sfw, urlcapture, header, ocr, tagimg.
