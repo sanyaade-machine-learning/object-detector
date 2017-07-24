@@ -6,7 +6,7 @@ Object Detector using HOG as descriptor and Linear SVM as classifier. | [Video](
 I have created a single python script that can be used to test the code. To test the code, run the lines below in your terminal.
 
 ```shell
-git clone https://github.com/bikz05/object-detector.git
+git clone https://github.com/symisc/object-detector.git
 cd object-detector/bin
 test-object-detector
 ```
@@ -79,21 +79,36 @@ _Detections after NMS_
 
 ![](data/images/test-im-4-nms.png)
 
-## TODO
+## PixLab Restful APIs
+If you are looking for state-of-the-art Restfull APIs for your Computer Vision & Media processing tasks, you may found [PixLab](https://pixlab.io) very usefull with the following capablity:
 
-Here is list of tasks that I am planning to implement in the future -
+1. Face detection, recognition, emotion, generation, lookup, landmarks, etc.
+2. Content Moderation & Extraction: nsfw, sfw, urlcapture, header, ocr, tagimg.
+3. Pixel Generation/Image processing.
+4. The ability to train your own object detector.
 
-* Optimize code to use more `numpy` vectorized codes.
-* Faster NMS code.
-* Add bootstrapping (Hard Negative Mining) code.
+With this in hand, you can achieve amazing transformation to your input images & videos including:
+
+1. Mimic Snapchat filters.
+2. Content filtering.
+3. Blurring/Cropping human faces.
+4. MEME Creation.
+
+and finally some useful links to start playing with:
+
+1. The PixLab API in 5 minutes or less: https://pixlab.io/#/start
+2. API Reference Guide: https://pixlab.io/#/api
+3. List of Images Analysis & Processing Commands: https://pixlab.io/#/cmdls
+4. The PixLab Sample Set: https://pixlab.io/#/examples
+
 
 
 ## Useful tutorials
 
-1. [Histogram of Oriented Gradients and Object Detection](http://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/)
+1. [Mimic Snapchat Filters Programmatically]()
 2. [Image Pyramids with Python and OpenCV](http://www.pyimagesearch.com/2015/03/16/image-pyramids-with-python-and-opencv/)
 3. [Sliding Windows for Object Detection with Python and OpenCV](http://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)
 4. [Non-Maximum Suppression for Object Detection in Python](http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
 5. [(Faster) Non-Maximum Suppression in Python](http://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/)
 6. [Texture Matching using Local Binary Patterns (LBP), OpenCV, scikit-learn and Python](http://hanzratech.in/2015/05/30/local-binary-patterns.html)
-7. [Detección de objetos Course by Coursera](https://www.coursera.org/course/deteccionobjetos)
+
